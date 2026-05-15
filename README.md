@@ -9,4 +9,4 @@
 ## 📫 Connect with me
 - 📫 **How to reach me:** [owo100@cau.ac.kr](mailto:owo100@cau.ac.kr)
 
-[![Solved.ac Card](https://mazandi.vercel.app/api?handle=owo2002&theme=dark)](https://solved.ac/profile/owo2002)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?badge=solved&id=owo2002)](https://solved.ac/profile/owo2002)
