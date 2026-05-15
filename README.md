@@ -1,3 +1,10 @@
 ## Hi there 👋
 
-- 🚀 **[Mar 2022 - Present]** Studying CSE at Chung-Ang University
+## 👤 About Me
+- 💻 **Interests:** Deep Learning & Artificial Intelligence
+- 🏫 **Chung-Ang University (CAU)** | Department of Computer Science & Engineering (Class of '22) `[Mar 2022 - Present]`
+
+<br>
+
+## 📫 Connect with me
+- 📫 **How to reach me:** [owo100@cau.ac.kr](mailto:owo100@cau.ac.kr)
