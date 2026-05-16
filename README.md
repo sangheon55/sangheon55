@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 - 💻 **Interests:** Deep Learning & Artificial Intelligence
-- 🏫 **Chung-Ang University (CAU)** | Department of Computer Science & Engineering (Class of '22) `[Mar 2022 - Present]`
+- 🏫 **Chung-Ang University (CAU)** | Department of Computer Science & Engineering `[Mar 2022 - Present]`
 
 <br>
 
