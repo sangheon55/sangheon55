@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 ## 👤 About Me
-- 💻 **Interests:** Deep Learning & Artificial Intelligence
+- 💻 **Interests:** Deep Learning & Reinforcement Learning
 - 🏫 **Chung-Ang University (CAU)** | Department of Computer Science & Engineering `[Mar 2022 - Present]`
 
